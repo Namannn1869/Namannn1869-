@@ -1,48 +1,41 @@
-<h1 align="center">
-  Hi 👋, I'm Naman Jadiya
-</h1>
+<!-- ===== Animated Page Border ===== -->
+<p align="center">
+  <svg width="100%" height="6">
+    <rect width="100%" height="6" fill="none" stroke="#00ff88" stroke-width="6">
+      <animate attributeName="stroke-dasharray"
+        from="0,1500"
+        to="1500,0"
+        dur="3s"
+        repeatCount="indefinite" />
+    </rect>
+  </svg>
+</p>
+
+<h1 align="center">Hi 👋, I'm Naman Jadiya</h1>
 
 <h3 align="center">
-  Frontend Developer 🚀 | Java Developer 💻 | DSA Learner 📚
+  Java Developer ☕ | Frontend Developer 🌐 | DSA Learner 📚
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;Java+Developer;DSA+Problem+Solver;HTML+CSS+JavaScript+Java;Learning+Every+Day+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Java+Developer;Frontend+Developer;DSA+Problem+Solver;HTML+CSS+JavaScript;Learning+Every+Day+🚀" />
 </p>
 
 ---
 
 ## 🌟 About Me
-
-- 💻 Frontend Developer with strong fundamentals  
-- 📚 Actively practicing **Data Structures & Algorithms**  
-- ⚙️ Comfortable with **Java, JavaScript & Web Technologies**  
-- 🚀 Focused on writing **clean & optimized code**  
-- 🎯 Goal: Crack interviews & build real-world projects  
+- 💻 Java & Frontend Developer with strong fundamentals  
+- 📚 Actively learning **Data Structures & Algorithms**  
+- 🎨 Love building clean, responsive UIs  
+- 🚀 Focused on writing optimized & readable code  
+- 🎯 Goal: Crack interviews & build impactful projects  
 
 ---
 
 ## 🛠️ Tech Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql&theme=dark" />
-</p>
-
----
-
-## 📊 Languages Usage
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="170"/>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,mysql,figma&theme=dark" />
 </p>
 
 ---
@@ -50,6 +43,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/Namannn1869" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://leetcode.com/u/NAMAN_JADIYA/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   </a>
@@ -67,6 +63,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer"/>
 </p>
-
